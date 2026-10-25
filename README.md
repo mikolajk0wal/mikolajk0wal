@@ -1,1 +1,1 @@
-Software Engineer studying Computer Science at PJAIT. Passionate about creating efficient solutions and expanding my technical capabilities. Specializing in full-stack development with Java, Spring, Hibernate, and React.js, focusing on building high-quality enterprise applications.
+Software Engineer
